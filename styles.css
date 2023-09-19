@@ -1,0 +1,23 @@
+html {
+    background-color: aqua;
+}
+
+h1 {
+    text-shadow: 3px 3px 1px grey;
+}
+
+img {
+    display: block;
+    width : 400px;
+    margin : auto;
+    padding : 0 20px 20px 20px;
+}
+
+body {
+    background-color: antiquewhite;
+    width: 600px;
+    border: 3px solid black;
+    margin : auto;
+    padding : 0 20px 20px 20px;
+}
+
